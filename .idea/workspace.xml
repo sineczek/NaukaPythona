@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="08f59ef8-953e-418c-81a5-c9fcf59dfaff" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_00do15_powtórka_po_tygodniu.py" afterDir="false" />
+    <list default="true" id="08f59ef8-953e-418c-81a5-c9fcf59dfaff" name="Default Changelist" comment="Nauka:&#10;- tips&amp;tricks zmiennych&#10;- parsowanie ciągów znaków&#10;&#10;Cwiczenia:&#10;- tips&amp;tricks zmiennych&#10;- parsowanie ciągów znaków">
+      <change afterPath="$PROJECT_DIR$/16_zmienne_tips_and_tricks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16_zmienne_tips_and_tricks_cwiczenia.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17_string_jako_tablica_znakow.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17_string_jako_tablica_znakow_cwiczenia.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,8 +38,8 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Python._00do15_powtórka_po_tygodniu">
-    <configuration name="14_typy_numeryczne_int_float" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.17_string_jako_tablica_znakow_cwiczenia">
+    <configuration name="16_zmienne_tips_and_tricks" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pierwszyProjekt" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -49,7 +51,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/14_typy_numeryczne_int_float.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/16_zmienne_tips_and_tricks.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -58,7 +60,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="14_typy_numeryczne_int_float_cwiczenia" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="16_zmienne_tips_and_tricks_cwiczenia" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pierwszyProjekt" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -70,7 +72,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/14_typy_numeryczne_int_float_cwiczenia.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/16_zmienne_tips_and_tricks_cwiczenia.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -79,7 +81,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="15_typ_i_operatory_logiczne" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="17_string_jako_tablica_znakow" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pierwszyProjekt" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -91,7 +93,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\micha\Desktop\!Nauka\Python\Udemy\pierwszyProjekt\15_typ_i_operatory_logiczne.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/17_string_jako_tablica_znakow.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -100,7 +102,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="15_typ_i_operatory_logiczne_cwiczenia" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="17_string_jako_tablica_znakow_cwiczenia" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pierwszyProjekt" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -112,7 +114,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/15_typ_i_operatory_logiczne_cwiczenia.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/17_string_jako_tablica_znakow_cwiczenia.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -144,9 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.17_string_jako_tablica_znakow_cwiczenia" />
+        <item itemvalue="Python.17_string_jako_tablica_znakow" />
+        <item itemvalue="Python.16_zmienne_tips_and_tricks_cwiczenia" />
+        <item itemvalue="Python.16_zmienne_tips_and_tricks" />
         <item itemvalue="Python._00do15_powtórka_po_tygodniu" />
-        <item itemvalue="Python.15_typ_i_operatory_logiczne_cwiczenia" />
-        <item itemvalue="Python.15_typ_i_operatory_logiczne" />
       </list>
     </recent_temporary>
   </component>
@@ -159,6 +163,19 @@
       <option name="presentableId" value="Default" />
       <updated>1609136221530</updated>
     </task>
+    <task id="LOCAL-00001" summary="Powtórka po tygodniu nauki - ćwiczenia">
+      <created>1609680936104</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1609680936104</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Powtórka po tygodniu nauki - ćwiczenia" />
+    <MESSAGE value="Nauka:&#10;- tips&amp;tricks zmiennych&#10;- parsowanie ciągów znaków&#10;&#10;Cwiczenia:&#10;- tips&amp;tricks zmiennych&#10;- parsowanie ciągów znaków" />
+    <option name="LAST_COMMIT_MESSAGE" value="Nauka:&#10;- tips&amp;tricks zmiennych&#10;- parsowanie ciągów znaków&#10;&#10;Cwiczenia:&#10;- tips&amp;tricks zmiennych&#10;- parsowanie ciągów znaków" />
   </component>
 </project>
