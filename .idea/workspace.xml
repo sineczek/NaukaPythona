@@ -2,41 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="08f59ef8-953e-418c-81a5-c9fcf59dfaff" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/TypyPodstawowe/18_kolejnosc_dzialan_cwiczenia.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TypyZaawansowane/19_listy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TypyZaawansowane/19_listy_cwiczenia.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TypyZaawansowane/20_tuple_krotka.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TypyZaawansowane/20_tuple_krotka_cwiczenia.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TypyZaawansowane/21_dictionary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TypyZaawansowane/21_dictionary_lab.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/00_HelloWorld.py" beforeDir="false" afterPath="$PROJECT_DIR$/TypyPodstawowe/00_HelloWorld.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/00_Klewiny_oraz_500plus.py" beforeDir="false" afterPath="$PROJECT_DIR$/TypyPodstawowe/00_Klewiny_oraz_500plus.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_hellopython.py" beforeDir="false" afterPath="$PROJECT_DIR$/TypyPodstawowe/01_hellopython.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_asciart.py" beforeDir="false" afterPath="$PROJECT_DIR$/TypyPodstawowe/02_asciart.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_pajak.py" beforeDir="false" afterPath="$PROJECT_DIR$/TypyPodstawowe/03_pajak.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/TypyPodstawowe/04_data.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05_pierwsza_zmienna.py" beforeDir="false" afterPath="$PROJECT_DIR$/TypyPodstawowe/05_pierwsza_zmienna.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06_zadanie_ilosc_mrugniec.py" beforeDir="false" afterPath="$PROJECT_DIR$/TypyPodstawowe/06_zadanie_ilosc_mrugniec.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06_zadanie_wielkosc_liter.py" beforeDir="false" afterPath="$PROJECT_DIR$/TypyPodstawowe/06_zadanie_wielkosc_liter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07_cwiczenia_jupiter.py" beforeDir="false" afterPath="$PROJECT_DIR$/TypyPodstawowe/07_cwiczenia_jupiter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08_cwiczenia.py" beforeDir="false" afterPath="$PROJECT_DIR$/TypyPodstawowe/08_cwiczenia.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08_cwiczenia_do_edytora_spyder.py" beforeDir="false" afterPath="$PROJECT_DIR$/TypyPodstawowe/08_cwiczenia_do_edytora_spyder.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/09_funkcja_print.py" beforeDir="false" afterPath="$PROJECT_DIR$/TypyPodstawowe/09_funkcja_print.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/09_print_Cwiczenia.py" beforeDir="false" afterPath="$PROJECT_DIR$/TypyPodstawowe/09_print_Cwiczenia.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10_typ_string.py" beforeDir="false" afterPath="$PROJECT_DIR$/TypyPodstawowe/10_typ_string.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10_typ_string_cwiczenia.py" beforeDir="false" afterPath="$PROJECT_DIR$/TypyPodstawowe/10_typ_string_cwiczenia.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11_string_konkatenacja.py" beforeDir="false" afterPath="$PROJECT_DIR$/TypyPodstawowe/11_string_konkatenacja.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11_string_konkatenacja_cwiczenia.py" beforeDir="false" afterPath="$PROJECT_DIR$/TypyPodstawowe/11_string_konkatenacja_cwiczenia.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/12_string_podsumowanie.py" beforeDir="false" afterPath="$PROJECT_DIR$/TypyPodstawowe/12_string_podsumowanie.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/12_string_podsumowanie_cwiczenia.py" beforeDir="false" afterPath="$PROJECT_DIR$/TypyPodstawowe/12_string_podsumowanie_cwiczenia.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/13_formatowanie_napisow.py" beforeDir="false" afterPath="$PROJECT_DIR$/TypyPodstawowe/13_formatowanie_napisow.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/13_formatowanie_napisow_cwiczenia.py" beforeDir="false" afterPath="$PROJECT_DIR$/TypyPodstawowe/13_formatowanie_napisow_cwiczenia.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/14_typy_numeryczne_int_float.py" beforeDir="false" afterPath="$PROJECT_DIR$/TypyPodstawowe/14_typy_numeryczne_int_float.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/14_typy_numeryczne_int_float_cwiczenia.py" beforeDir="false" afterPath="$PROJECT_DIR$/TypyPodstawowe/14_typy_numeryczne_int_float_cwiczenia.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/15_typ_i_operatory_logiczne.py" beforeDir="false" afterPath="$PROJECT_DIR$/TypyPodstawowe/15_typ_i_operatory_logiczne.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/15_typ_i_operatory_logiczne_cwiczenia.py" beforeDir="false" afterPath="$PROJECT_DIR$/TypyPodstawowe/15_typ_i_operatory_logiczne_cwiczenia.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/16_zmienne_tips_and_tricks.py" beforeDir="false" afterPath="$PROJECT_DIR$/TypyPodstawowe/16_zmienne_tips_and_tricks.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/16_zmienne_tips_and_tricks_cwiczenia.py" beforeDir="false" afterPath="$PROJECT_DIR$/TypyPodstawowe/16_zmienne_tips_and_tricks_cwiczenia.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/17_string_jako_tablica_znakow.py" beforeDir="false" afterPath="$PROJECT_DIR$/TypyPodstawowe/17_string_jako_tablica_znakow.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/17_string_jako_tablica_znakow_cwiczenia.py" beforeDir="false" afterPath="$PROJECT_DIR$/TypyPodstawowe/17_string_jako_tablica_znakow_cwiczenia.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_00do15_powtórka_po_tygodniu.py" beforeDir="false" afterPath="$PROJECT_DIR$/TypyPodstawowe/_00do15_powtórka_po_tygodniu.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,70 +43,7 @@
       <recent name="C:\Users\micha\Desktop\!Nauka\Python\Udemy\pierwszyProjekt\TypyPodstawowe" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.19_listy_cwiczenia">
-    <configuration name="17_string_jako_tablica_znakow" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pierwszyProjekt" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\micha\Desktop\!Nauka\Python\Udemy\pierwszyProjekt\TypyPodstawowe\17_string_jako_tablica_znakow.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="17_string_jako_tablica_znakow_cwiczenia" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pierwszyProjekt" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\micha\Desktop\!Nauka\Python\Udemy\pierwszyProjekt\TypyPodstawowe\17_string_jako_tablica_znakow_cwiczenia.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="19_listy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pierwszyProjekt" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TypyZaawansowane" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TypyZaawansowane/19_listy.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.21_dictionary_lab">
     <configuration name="19_listy_cwiczenia" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pierwszyProjekt" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -158,31 +65,97 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Doctests in 18_kolejnosc_dzialan_cwiczenia" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
+    <configuration name="20_tuple_krotka" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pierwszyProjekt" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TypyZaawansowane" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\micha\Desktop\!Nauka\Python\Udemy\pierwszyProjekt\TypyPodstawowe\18_kolejnosc_dzialan_cwiczenia.py" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TypyZaawansowane/20_tuple_krotka.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="20_tuple_krotka_cwiczenia" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pierwszyProjekt" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TypyZaawansowane" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TypyZaawansowane/20_tuple_krotka_cwiczenia.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="21_dictionary" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pierwszyProjekt" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TypyZaawansowane" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TypyZaawansowane/21_dictionary.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="21_dictionary_lab" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pierwszyProjekt" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TypyZaawansowane" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TypyZaawansowane/21_dictionary_lab.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.21_dictionary_lab" />
+        <item itemvalue="Python.21_dictionary" />
+        <item itemvalue="Python.20_tuple_krotka_cwiczenia" />
+        <item itemvalue="Python.20_tuple_krotka" />
         <item itemvalue="Python.19_listy_cwiczenia" />
-        <item itemvalue="Python.19_listy" />
-        <item itemvalue="Python tests.Doctests in 18_kolejnosc_dzialan_cwiczenia" />
-        <item itemvalue="Python.17_string_jako_tablica_znakow_cwiczenia" />
-        <item itemvalue="Python.17_string_jako_tablica_znakow" />
       </list>
     </recent_temporary>
   </component>
@@ -209,12 +182,20 @@
       <option name="project" value="LOCAL" />
       <updated>1609689059420</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="- listy &#10;- kolejność działań matematycznych :)&#10;&#10;----&#10;zmiana układu katalogów i plików">
+      <created>1609786087629</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1609786087629</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Powtórka po tygodniu nauki - ćwiczenia" />
     <MESSAGE value="Nauka:&#10;- tips&amp;tricks zmiennych&#10;- parsowanie ciągów znaków&#10;&#10;Cwiczenia:&#10;- tips&amp;tricks zmiennych&#10;- parsowanie ciągów znaków" />
-    <option name="LAST_COMMIT_MESSAGE" value="Nauka:&#10;- tips&amp;tricks zmiennych&#10;- parsowanie ciągów znaków&#10;&#10;Cwiczenia:&#10;- tips&amp;tricks zmiennych&#10;- parsowanie ciągów znaków" />
+    <MESSAGE value="- listy &#10;- kolejność działań matematycznych :)&#10;&#10;----&#10;zmiana układu katalogów i plików" />
+    <option name="LAST_COMMIT_MESSAGE" value="- listy &#10;- kolejność działań matematycznych :)&#10;&#10;----&#10;zmiana układu katalogów i plików" />
   </component>
 </project>
