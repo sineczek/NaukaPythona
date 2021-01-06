@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="08f59ef8-953e-418c-81a5-c9fcf59dfaff" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/TypyZaawansowane/20_tuple_krotka.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TypyZaawansowane/20_tuple_krotka_cwiczenia.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TypyZaawansowane/21_dictionary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TypyZaawansowane/21_dictionary_lab.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sterowanie/22_instrukcja_warunkowa_if.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sterowanie/22_instrukcja_warunkowa_if_lab.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sterowanie/23_if_elif_lab.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sterowanie/23_if_elseif.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sterowanie/24_ternary_operator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sterowanie/24_ternary_operator_lab.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,8 +45,8 @@
       <recent name="C:\Users\micha\Desktop\!Nauka\Python\Udemy\pierwszyProjekt\TypyPodstawowe" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.21_dictionary_lab">
-    <configuration name="19_listy_cwiczenia" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.24_ternary_operator_lab">
+    <configuration name="22_instrukcja_warunkowa_if_lab" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pierwszyProjekt" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -52,11 +54,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TypyZaawansowane" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Sterowanie" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TypyZaawansowane/19_listy_cwiczenia.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sterowanie/22_instrukcja_warunkowa_if_lab.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -65,7 +67,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="20_tuple_krotka" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="23_if_elif_lab" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pierwszyProjekt" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -73,11 +75,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TypyZaawansowane" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Sterowanie" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TypyZaawansowane/20_tuple_krotka.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sterowanie/23_if_elif_lab.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -86,7 +88,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="20_tuple_krotka_cwiczenia" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="23_if_elseif" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pierwszyProjekt" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -94,11 +96,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TypyZaawansowane" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Sterowanie" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TypyZaawansowane/20_tuple_krotka_cwiczenia.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sterowanie/23_if_elseif.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -107,7 +109,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="21_dictionary" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="24_ternary_operator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pierwszyProjekt" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -115,11 +117,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TypyZaawansowane" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Sterowanie" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TypyZaawansowane/21_dictionary.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sterowanie/24_ternary_operator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -128,7 +130,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="21_dictionary_lab" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="24_ternary_operator_lab" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pierwszyProjekt" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -136,11 +138,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TypyZaawansowane" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Sterowanie" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TypyZaawansowane/21_dictionary_lab.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sterowanie/24_ternary_operator_lab.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -151,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.21_dictionary_lab" />
-        <item itemvalue="Python.21_dictionary" />
-        <item itemvalue="Python.20_tuple_krotka_cwiczenia" />
-        <item itemvalue="Python.20_tuple_krotka" />
-        <item itemvalue="Python.19_listy_cwiczenia" />
+        <item itemvalue="Python.24_ternary_operator_lab" />
+        <item itemvalue="Python.24_ternary_operator" />
+        <item itemvalue="Python.23_if_elif_lab" />
+        <item itemvalue="Python.23_if_elseif" />
+        <item itemvalue="Python.22_instrukcja_warunkowa_if_lab" />
       </list>
     </recent_temporary>
   </component>
@@ -189,13 +191,21 @@
       <option name="project" value="LOCAL" />
       <updated>1609786087629</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="- więcej list&#10;  - lista statyczna - topla (krotka)&#10;  - lista słownikowa">
+      <created>1609871732309</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1609871732309</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Powtórka po tygodniu nauki - ćwiczenia" />
     <MESSAGE value="Nauka:&#10;- tips&amp;tricks zmiennych&#10;- parsowanie ciągów znaków&#10;&#10;Cwiczenia:&#10;- tips&amp;tricks zmiennych&#10;- parsowanie ciągów znaków" />
     <MESSAGE value="- listy &#10;- kolejność działań matematycznych :)&#10;&#10;----&#10;zmiana układu katalogów i plików" />
-    <option name="LAST_COMMIT_MESSAGE" value="- listy &#10;- kolejność działań matematycznych :)&#10;&#10;----&#10;zmiana układu katalogów i plików" />
+    <MESSAGE value="- więcej list&#10;  - lista statyczna - topla (krotka)&#10;  - lista słownikowa" />
+    <option name="LAST_COMMIT_MESSAGE" value="- więcej list&#10;  - lista statyczna - topla (krotka)&#10;  - lista słownikowa" />
   </component>
 </project>
