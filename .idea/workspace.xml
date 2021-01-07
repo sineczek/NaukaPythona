@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="08f59ef8-953e-418c-81a5-c9fcf59dfaff" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Sterowanie/22_instrukcja_warunkowa_if.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sterowanie/22_instrukcja_warunkowa_if_lab.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sterowanie/23_if_elif_lab.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sterowanie/23_if_elseif.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sterowanie/24_ternary_operator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sterowanie/24_ternary_operator_lab.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pętle/25_while_else.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pętle/25_while_else_lab.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,6 +20,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="1mH2VfMxhy95afjRm3LXGSWwqb4" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -45,28 +49,7 @@
       <recent name="C:\Users\micha\Desktop\!Nauka\Python\Udemy\pierwszyProjekt\TypyPodstawowe" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.24_ternary_operator_lab">
-    <configuration name="22_instrukcja_warunkowa_if_lab" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pierwszyProjekt" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Sterowanie" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sterowanie/22_instrukcja_warunkowa_if_lab.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.25_while_else_lab">
     <configuration name="23_if_elif_lab" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pierwszyProjekt" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -80,27 +63,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sterowanie/23_if_elif_lab.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="23_if_elseif" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pierwszyProjekt" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Sterowanie" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sterowanie/23_if_elseif.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -151,13 +113,55 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="25_while_else" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pierwszyProjekt" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Pętle" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pętle/25_while_else.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="25_while_else_lab" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pierwszyProjekt" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Pętle" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pętle/25_while_else_lab.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.25_while_else_lab" />
+        <item itemvalue="Python.25_while_else" />
         <item itemvalue="Python.24_ternary_operator_lab" />
         <item itemvalue="Python.24_ternary_operator" />
         <item itemvalue="Python.23_if_elif_lab" />
-        <item itemvalue="Python.23_if_elseif" />
-        <item itemvalue="Python.22_instrukcja_warunkowa_if_lab" />
       </list>
     </recent_temporary>
   </component>
@@ -198,7 +202,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609871732309</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="- iflologia&#10;if&#10;else&#10;elif&#10;trenaty operator">
+      <created>1609963278347</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1609963278347</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -206,6 +217,7 @@
     <MESSAGE value="Nauka:&#10;- tips&amp;tricks zmiennych&#10;- parsowanie ciągów znaków&#10;&#10;Cwiczenia:&#10;- tips&amp;tricks zmiennych&#10;- parsowanie ciągów znaków" />
     <MESSAGE value="- listy &#10;- kolejność działań matematycznych :)&#10;&#10;----&#10;zmiana układu katalogów i plików" />
     <MESSAGE value="- więcej list&#10;  - lista statyczna - topla (krotka)&#10;  - lista słownikowa" />
-    <option name="LAST_COMMIT_MESSAGE" value="- więcej list&#10;  - lista statyczna - topla (krotka)&#10;  - lista słownikowa" />
+    <MESSAGE value="- iflologia&#10;if&#10;else&#10;elif&#10;trenaty operator" />
+    <option name="LAST_COMMIT_MESSAGE" value="- iflologia&#10;if&#10;else&#10;elif&#10;trenaty operator" />
   </component>
 </project>
