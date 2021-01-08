@@ -84,3 +84,7 @@ while i <= imax :
     print(i*'*')
     i+=1
 
+print(0.1*3 == 0.3)
+print(0.1*3)
+print(0.1*2 == 0.2)
+print(0.1*2)
