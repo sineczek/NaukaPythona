@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="08f59ef8-953e-418c-81a5-c9fcf59dfaff" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Pętle/28_debugger.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pętle/28_debugger_lab.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pętle/29_petla_for.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pętle/29_petla_for_lab.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pętle/30_for_ilosc_razy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pętle/30_for_ilosc_razy_lab.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pętle/31_zagniezdzanie_petli.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pętle/31_zagniezdzanie_petli_lab.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pętle/32_break.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pętle/32_break_lab.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,8 +55,8 @@
       <recent name="C:\Users\micha\Desktop\!Nauka\Python\Udemy\pierwszyProjekt\TypyPodstawowe" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.28_debugger_lab">
-    <configuration name="26_if_w_while" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.32_break_lab">
+    <configuration name="30_for_ilosc_razy_lab" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pierwszyProjekt" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -62,7 +68,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pętle/26_if_w_while.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pętle/30_for_ilosc_razy_lab.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -71,7 +77,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="26_if_w_while_lab" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="31_zagniezdzanie_petli" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pierwszyProjekt" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -83,7 +89,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pętle/26_if_w_while_lab.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pętle/31_zagniezdzanie_petli.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -92,7 +98,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="27_while_lab" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="31_zagniezdzanie_petli_lab" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pierwszyProjekt" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -104,7 +110,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\micha\Desktop\!Nauka\Python\Udemy\pierwszyProjekt\Pętle\27_while_lab.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pętle/31_zagniezdzanie_petli_lab.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -113,7 +119,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="28_debugger" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="32_break" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pierwszyProjekt" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -125,7 +131,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pętle/28_debugger.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pętle/32_break.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -134,7 +140,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="28_debugger_lab" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="32_break_lab" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pierwszyProjekt" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -146,7 +152,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pętle/28_debugger_lab.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pętle/32_break_lab.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -157,11 +163,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.28_debugger_lab" />
-        <item itemvalue="Python.28_debugger" />
-        <item itemvalue="Python.27_while_lab" />
-        <item itemvalue="Python.26_if_w_while_lab" />
-        <item itemvalue="Python.26_if_w_while" />
+        <item itemvalue="Python.32_break_lab" />
+        <item itemvalue="Python.32_break" />
+        <item itemvalue="Python.31_zagniezdzanie_petli_lab" />
+        <item itemvalue="Python.31_zagniezdzanie_petli" />
+        <item itemvalue="Python.30_for_ilosc_razy_lab" />
       </list>
     </recent_temporary>
   </component>
@@ -223,7 +229,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610130161854</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="debugging kodu ... i siebie">
+      <created>1610209467383</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1610209467383</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -234,7 +247,8 @@
     <MESSAGE value="- iflologia&#10;if&#10;else&#10;elif&#10;trenaty operator" />
     <MESSAGE value="petla while/else" />
     <MESSAGE value="if w while&#10;oraz pierwsza gra - skrypt :)" />
-    <option name="LAST_COMMIT_MESSAGE" value="if w while&#10;oraz pierwsza gra - skrypt :)" />
+    <MESSAGE value="debugging kodu ... i siebie" />
+    <option name="LAST_COMMIT_MESSAGE" value="debugging kodu ... i siebie" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -247,6 +261,11 @@
           <url>file://$PROJECT_DIR$/Pętle/28_debugger_lab.py</url>
           <line>46</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Pętle/32_break.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
