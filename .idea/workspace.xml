@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="08f59ef8-953e-418c-81a5-c9fcf59dfaff" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/TypyInformacjeZaawansowane/36_matematyka.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TypyInformacjeZaawansowane/36_matematyka_lab.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TypyInformacjeZaawansowane/37_moduły.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TypyInformacjeZaawansowane/37_moduły_lab.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TypyInformacjeZaawansowane/37_moduły_lab.py" beforeDir="false" afterPath="$PROJECT_DIR$/TypyInformacjeZaawansowane/37_moduły_lab.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -253,7 +249,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610564017132</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="powtórka w śnieżny dzień">
+      <created>1610647297996</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1610647297996</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

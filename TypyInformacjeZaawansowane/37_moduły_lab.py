@@ -48,7 +48,7 @@ percent.sort()
 print(percent)
 print('\n')
 import statistics
-#print(median(percent))
+
 print('Mediana:',statistics.median(percent), '\tMediana LOW:', statistics.median_low(percent), '\tMedian HIGH', statistics.median_high(percent))
 
 from statistics import median, median_high, median_low
