@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="08f59ef8-953e-418c-81a5-c9fcf59dfaff" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Funkcje/46_funkcje_wprowadzenie.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Funkcje/46_funkcje_wprowadznie_lab.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Funkcje/47_funkcja_najblizszy_dzien_roboczy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Funkcje/47_funkcja_najblizszy_dzien_roboczy_lab.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Funkcje/48_parametry_funkcji.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Funkcje/48_parametry_funkcji_lab.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Funkcje/47_funkcja_najblizszy_dzien_roboczy_lab.py" beforeDir="false" afterPath="$PROJECT_DIR$/Funkcje/47_funkcja_najblizszy_dzien_roboczy_lab.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,49 +51,7 @@
       <recent name="C:\Users\micha\Desktop\!Nauka\Python\Udemy\pierwszyProjekt\TypyPodstawowe" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.47_funkcja_najblizszy_dzien_roboczy_lab">
-    <configuration name="45_gra_w_wpjne_cz2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pierwszyProjekt" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TypyInformacjeZaawansowane" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TypyInformacjeZaawansowane/45_gra_w_wpjne_cz2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="46_funkcje_wprowadzenie" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pierwszyProjekt" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Funkcje" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Funkcje/46_funkcje_wprowadzenie.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.48_parametry_funkcji_lab">
     <configuration name="46_funkcje_wprowadznie_lab" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pierwszyProjekt" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -158,13 +115,55 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="48_parametry_funkcji" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pierwszyProjekt" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Funkcje" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Funkcje/48_parametry_funkcji.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="48_parametry_funkcji_lab" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pierwszyProjekt" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Funkcje" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Funkcje/48_parametry_funkcji_lab.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.48_parametry_funkcji_lab" />
+        <item itemvalue="Python.48_parametry_funkcji" />
         <item itemvalue="Python.47_funkcja_najblizszy_dzien_roboczy_lab" />
         <item itemvalue="Python.47_funkcja_najblizszy_dzien_roboczy" />
         <item itemvalue="Python.46_funkcje_wprowadznie_lab" />
-        <item itemvalue="Python.46_funkcje_wprowadzenie" />
-        <item itemvalue="Python.45_gra_w_wpjne_cz2" />
       </list>
     </recent_temporary>
   </component>
@@ -310,7 +309,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611167211570</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Funkcje - wprowadzenie&#10;&#10;moduły: &#10;datetime -&gt; date, timedelta">
+      <created>1611249314903</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1611249314903</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -332,7 +338,8 @@
     <MESSAGE value="moduły:&#10;time&#10;calendar&#10;datetime (datetime,timedelta,date)" />
     <MESSAGE value="moduły:&#10;random - lotto i karty" />
     <MESSAGE value="trójkąt pascala&#10;&#10;moduły:&#10;random - gra w wojne, opcja pokój i opcj wojna" />
-    <option name="LAST_COMMIT_MESSAGE" value="trójkąt pascala&#10;&#10;moduły:&#10;random - gra w wojne, opcja pokój i opcj wojna" />
+    <MESSAGE value="Funkcje - wprowadzenie&#10;&#10;moduły: &#10;datetime -&gt; date, timedelta" />
+    <option name="LAST_COMMIT_MESSAGE" value="Funkcje - wprowadzenie&#10;&#10;moduły: &#10;datetime -&gt; date, timedelta" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

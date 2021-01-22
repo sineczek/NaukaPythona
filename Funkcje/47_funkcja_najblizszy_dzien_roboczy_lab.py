@@ -23,13 +23,17 @@ skonwertuj skrypt na funkcję
 sprawdź działanie funkcji wywołując ją
 
 No to dużo jeszcze do Sylwestra?'''
+
+
+
+
 def DaysToEndOfYear():
     import datetime
 
     today = datetime.date.today()
     currentYear = today.year
-    newYearEve = datetime.date(currentYear, 12, 31)
-    ilosc = newYearEve - today
+    newYearsEve = datetime.date(currentYear, 12, 31)
+    ilosc = newYearsEve - today
 
     print('do Nowego Roku pozostało:', ilosc.days, 'dni')
     return
