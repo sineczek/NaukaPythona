@@ -88,4 +88,4 @@ def DaysToEndOfYear(year, month, day):
 DaysToEndOfYear(2021,12,20)
 DaysToEndOfYear(2021,12,21)
 DaysToEndOfYear(year = 2022, month = 12, day = 22)
-DaysToEndOfYear(day = 23, month =12, year = 2023)
+DaysToEndOfYear(day = 21, month =1, year = 2023)
