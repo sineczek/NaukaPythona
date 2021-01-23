@@ -2,10 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="08f59ef8-953e-418c-81a5-c9fcf59dfaff" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Funkcje/48_parametry_funkcji.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Funkcje/48_parametry_funkcji_lab.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Funkcje/49_parametry_domyslne_funkcji.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Funkcje/49_parametry_domyslne_funkcji_lab.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Funkcje/50_zwracanie_wartosci_funkcji.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Funkcje/50_zwracanie_wartosci_funkcji_lab.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Funkcje/51_zmienna_ilosc_parametrow.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Funkcje/51_zmienna_ilosc_parametrow_lab.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Funkcje/52_implementacja_switch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Funkcje/52_implementacja_switch_lab.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Funkcje/52_lab.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Funkcje/geom.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OperacjeIO/53_dane_od_user_lab.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OperacjeIO/53_dane_od_usera.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Funkcje/47_funkcja_najblizszy_dzien_roboczy_lab.py" beforeDir="false" afterPath="$PROJECT_DIR$/Funkcje/47_funkcja_najblizszy_dzien_roboczy_lab.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,8 +60,8 @@
       <recent name="C:\Users\micha\Desktop\!Nauka\Python\Udemy\pierwszyProjekt\TypyPodstawowe" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.48_parametry_funkcji_lab">
-    <configuration name="46_funkcje_wprowadznie_lab" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.53_dane_od_user_lab">
+    <configuration name="52_implementacja_switch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pierwszyProjekt" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -64,7 +73,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Funkcje/46_funkcje_wprowadznie_lab.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Funkcje/52_implementacja_switch.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -73,7 +82,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="47_funkcja_najblizszy_dzien_roboczy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="52_implementacja_switch_lab" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pierwszyProjekt" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -85,7 +94,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Funkcje/47_funkcja_najblizszy_dzien_roboczy.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Funkcje/52_implementacja_switch_lab.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -94,7 +103,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="47_funkcja_najblizszy_dzien_roboczy_lab" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="52_lab" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pierwszyProjekt" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -106,7 +115,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Funkcje/47_funkcja_najblizszy_dzien_roboczy_lab.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Funkcje/52_lab.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -115,7 +124,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="48_parametry_funkcji" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="53_dane_od_user_lab" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pierwszyProjekt" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -123,11 +132,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Funkcje" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OperacjeIO" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Funkcje/48_parametry_funkcji.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OperacjeIO/53_dane_od_user_lab.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -136,7 +145,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="48_parametry_funkcji_lab" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="53_dane_od_usera" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pierwszyProjekt" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -144,11 +153,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Funkcje" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OperacjeIO" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Funkcje/48_parametry_funkcji_lab.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OperacjeIO/53_dane_od_usera.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -159,11 +168,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.48_parametry_funkcji_lab" />
-        <item itemvalue="Python.48_parametry_funkcji" />
-        <item itemvalue="Python.47_funkcja_najblizszy_dzien_roboczy_lab" />
-        <item itemvalue="Python.47_funkcja_najblizszy_dzien_roboczy" />
-        <item itemvalue="Python.46_funkcje_wprowadznie_lab" />
+        <item itemvalue="Python.53_dane_od_user_lab" />
+        <item itemvalue="Python.53_dane_od_usera" />
+        <item itemvalue="Python.52_lab" />
+        <item itemvalue="Python.52_implementacja_switch_lab" />
+        <item itemvalue="Python.52_implementacja_switch" />
       </list>
     </recent_temporary>
   </component>
@@ -316,7 +325,21 @@
       <option name="project" value="LOCAL" />
       <updated>1611249314903</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Funkcje - wprowadzenie&#10;&#10;moduły: &#10;datetime -&gt; date, timedelta">
+      <created>1611334594867</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1611334594867</updated>
+    </task>
+    <task id="LOCAL-00022" summary="funkcje parametryzacja">
+      <created>1611334627250</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1611334627250</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -339,7 +362,8 @@
     <MESSAGE value="moduły:&#10;random - lotto i karty" />
     <MESSAGE value="trójkąt pascala&#10;&#10;moduły:&#10;random - gra w wojne, opcja pokój i opcj wojna" />
     <MESSAGE value="Funkcje - wprowadzenie&#10;&#10;moduły: &#10;datetime -&gt; date, timedelta" />
-    <option name="LAST_COMMIT_MESSAGE" value="Funkcje - wprowadzenie&#10;&#10;moduły: &#10;datetime -&gt; date, timedelta" />
+    <MESSAGE value="funkcje parametryzacja" />
+    <option name="LAST_COMMIT_MESSAGE" value="funkcje parametryzacja" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
