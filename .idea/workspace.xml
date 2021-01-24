@@ -2,18 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="08f59ef8-953e-418c-81a5-c9fcf59dfaff" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Funkcje/49_parametry_domyslne_funkcji.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Funkcje/49_parametry_domyslne_funkcji_lab.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Funkcje/50_zwracanie_wartosci_funkcji.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Funkcje/50_zwracanie_wartosci_funkcji_lab.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Funkcje/51_zmienna_ilosc_parametrow.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Funkcje/51_zmienna_ilosc_parametrow_lab.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Funkcje/52_implementacja_switch.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Funkcje/52_implementacja_switch_lab.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Funkcje/52_lab.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Funkcje/geom.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OperacjeIO/53_dane_od_user_lab.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OperacjeIO/53_dane_od_usera.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Obsluga_Bledow/58_instrukcja_try.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Obsluga_Bledow/58_instrukcja_try_lab.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Obsluga_Bledow/59_instrukcja_except.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Obsluga_Bledow/59_instrukcja_except_lab.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Obsluga_Bledow/60_else_i_finally.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Obsluga_Bledow/60_else_i_finally_lab.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OperacjeIO/54_modul_OS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OperacjeIO/54_modul_OS_lab.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OperacjeIO/55_kontrola_sciezki_do_pliku.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OperacjeIO/55_kontrola_sciezki_do_pliku_lab.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OperacjeIO/56_odczyt_z_pliku.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OperacjeIO/56_odczyt_z_pliku_lab.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OperacjeIO/57_zapis_do_pliku.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OperacjeIO/57_zapis_do_pliku_lab.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OperacjeIO/results.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OperacjeIO/webs_other.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OperacjeIO/webs_pl.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OperacjeIO/www.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OperacjeIO/www1.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,17 +47,20 @@
     </file-type-list>
   </component>
   <component name="ProjectId" id="1mH2VfMxhy95afjRm3LXGSWwqb4" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Tester/00. Testalia MAK DB/MAK_DB_Selenium" />
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
@@ -60,8 +70,8 @@
       <recent name="C:\Users\micha\Desktop\!Nauka\Python\Udemy\pierwszyProjekt\TypyPodstawowe" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.53_dane_od_user_lab">
-    <configuration name="52_implementacja_switch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.60_else_i_finally_lab">
+    <configuration name="58_instrukcja_try_lab" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pierwszyProjekt" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -69,11 +79,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Funkcje" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Obsluga_Bledow" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Funkcje/52_implementacja_switch.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Obsluga_Bledow/58_instrukcja_try_lab.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -82,7 +92,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="52_implementacja_switch_lab" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="59_instrukcja_except" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pierwszyProjekt" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -90,11 +100,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Funkcje" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Obsluga_Bledow" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Funkcje/52_implementacja_switch_lab.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Obsluga_Bledow/59_instrukcja_except.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -103,7 +113,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="52_lab" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="59_instrukcja_except_lab" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pierwszyProjekt" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -111,11 +121,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Funkcje" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Obsluga_Bledow" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Funkcje/52_lab.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Obsluga_Bledow/59_instrukcja_except_lab.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -124,7 +134,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="53_dane_od_user_lab" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="60_else_i_finally" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pierwszyProjekt" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -132,11 +142,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OperacjeIO" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Obsluga_Bledow" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OperacjeIO/53_dane_od_user_lab.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Obsluga_Bledow/60_else_i_finally.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -145,7 +155,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="53_dane_od_usera" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="60_else_i_finally_lab" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pierwszyProjekt" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -153,11 +163,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OperacjeIO" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Obsluga_Bledow" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OperacjeIO/53_dane_od_usera.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Obsluga_Bledow/60_else_i_finally_lab.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -168,11 +178,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.53_dane_od_user_lab" />
-        <item itemvalue="Python.53_dane_od_usera" />
-        <item itemvalue="Python.52_lab" />
-        <item itemvalue="Python.52_implementacja_switch_lab" />
-        <item itemvalue="Python.52_implementacja_switch" />
+        <item itemvalue="Python.60_else_i_finally_lab" />
+        <item itemvalue="Python.60_else_i_finally" />
+        <item itemvalue="Python.59_instrukcja_except_lab" />
+        <item itemvalue="Python.59_instrukcja_except" />
+        <item itemvalue="Python.58_instrukcja_try_lab" />
       </list>
     </recent_temporary>
   </component>
@@ -339,10 +349,18 @@
       <option name="project" value="LOCAL" />
       <updated>1611334627250</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="funkcje:&#10;- parametry domyślne&#10;- zwracanie wartości&#10;- implementacja switch/case w pythonie&#10;&#10;operacje I/O&#10;- wprowadzanie danych przez usera&#10;- obsługa błedów Str != Int">
+      <created>1611424530566</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1611424530566</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Powtórka po tygodniu nauki - ćwiczenia" />
     <MESSAGE value="Nauka:&#10;- tips&amp;tricks zmiennych&#10;- parsowanie ciągów znaków&#10;&#10;Cwiczenia:&#10;- tips&amp;tricks zmiennych&#10;- parsowanie ciągów znaków" />
     <MESSAGE value="- listy &#10;- kolejność działań matematycznych :)&#10;&#10;----&#10;zmiana układu katalogów i plików" />
@@ -363,7 +381,8 @@
     <MESSAGE value="trójkąt pascala&#10;&#10;moduły:&#10;random - gra w wojne, opcja pokój i opcj wojna" />
     <MESSAGE value="Funkcje - wprowadzenie&#10;&#10;moduły: &#10;datetime -&gt; date, timedelta" />
     <MESSAGE value="funkcje parametryzacja" />
-    <option name="LAST_COMMIT_MESSAGE" value="funkcje parametryzacja" />
+    <MESSAGE value="funkcje:&#10;- parametry domyślne&#10;- zwracanie wartości&#10;- implementacja switch/case w pythonie&#10;&#10;operacje I/O&#10;- wprowadzanie danych przez usera&#10;- obsługa błedów Str != Int" />
+    <option name="LAST_COMMIT_MESSAGE" value="funkcje:&#10;- parametry domyślne&#10;- zwracanie wartości&#10;- implementacja switch/case w pythonie&#10;&#10;operacje I/O&#10;- wprowadzanie danych przez usera&#10;- obsługa błedów Str != Int" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

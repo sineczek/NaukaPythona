@@ -1,0 +1,14 @@
+onet.pl
+wp.pl
+gazeta.pl
+1.pl
+2.pl
+3.pl
+a.pl
+d.pl
+1.pl
+2.pl
+3.org
+4.com
+a.com
+b.org

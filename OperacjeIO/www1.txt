@@ -1,0 +1,4 @@
+s.pl
+e.org
+d.com
+d.de
