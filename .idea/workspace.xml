@@ -2,25 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="08f59ef8-953e-418c-81a5-c9fcf59dfaff" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Obsluga_Bledow/58_instrukcja_try.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Obsluga_Bledow/58_instrukcja_try_lab.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Obsluga_Bledow/59_instrukcja_except.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Obsluga_Bledow/59_instrukcja_except_lab.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Obsluga_Bledow/60_else_i_finally.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Obsluga_Bledow/60_else_i_finally_lab.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OperacjeIO/54_modul_OS.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OperacjeIO/54_modul_OS_lab.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OperacjeIO/55_kontrola_sciezki_do_pliku.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OperacjeIO/55_kontrola_sciezki_do_pliku_lab.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OperacjeIO/56_odczyt_z_pliku.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OperacjeIO/56_odczyt_z_pliku_lab.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OperacjeIO/57_zapis_do_pliku.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OperacjeIO/57_zapis_do_pliku_lab.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OperacjeIO/results.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OperacjeIO/webs_other.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OperacjeIO/webs_pl.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OperacjeIO/www.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OperacjeIO/www1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Obsluga_Bledow/1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Obsluga_Bledow/2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Obsluga_Bledow/3.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -356,7 +340,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611424530566</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="operacje I/O&#10;- moduł OS&#10;- kontrola ścieżki &#10;- odczyt pliku&#10;- zapis do pliku&#10;&#10;obsługa błędów:&#10;- try&#10;- except&#10;- except Error as e&#10;- finally&#10;&#10;-----------------------------------&#10;Koniec Kursu - Podstawy Pythona !">
+      <created>1611511043119</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1611511043119</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -382,7 +373,8 @@
     <MESSAGE value="Funkcje - wprowadzenie&#10;&#10;moduły: &#10;datetime -&gt; date, timedelta" />
     <MESSAGE value="funkcje parametryzacja" />
     <MESSAGE value="funkcje:&#10;- parametry domyślne&#10;- zwracanie wartości&#10;- implementacja switch/case w pythonie&#10;&#10;operacje I/O&#10;- wprowadzanie danych przez usera&#10;- obsługa błedów Str != Int" />
-    <option name="LAST_COMMIT_MESSAGE" value="funkcje:&#10;- parametry domyślne&#10;- zwracanie wartości&#10;- implementacja switch/case w pythonie&#10;&#10;operacje I/O&#10;- wprowadzanie danych przez usera&#10;- obsługa błedów Str != Int" />
+    <MESSAGE value="operacje I/O&#10;- moduł OS&#10;- kontrola ścieżki &#10;- odczyt pliku&#10;- zapis do pliku&#10;&#10;obsługa błędów:&#10;- try&#10;- except&#10;- except Error as e&#10;- finally&#10;&#10;-----------------------------------&#10;Koniec Kursu - Podstawy Pythona !" />
+    <option name="LAST_COMMIT_MESSAGE" value="operacje I/O&#10;- moduł OS&#10;- kontrola ścieżki &#10;- odczyt pliku&#10;- zapis do pliku&#10;&#10;obsługa błędów:&#10;- try&#10;- except&#10;- except Error as e&#10;- finally&#10;&#10;-----------------------------------&#10;Koniec Kursu - Podstawy Pythona !" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
